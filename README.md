@@ -1,7 +1,7 @@
 # 0x1D. C - Binary trees
 ***
 
-![Different Types of Binary Tree](https://towardsdatascience.com/5-types-of-binary-tree-with-cool-illustrations-9b335c430254)
+![Different Types of Binary Tree](https://i.imgur.com/KJAm8lK.jpg)
 
 _Binary_ Tree is a Tree data structure where every node has at most 2 children.
 
@@ -10,7 +10,7 @@ In this group project we will work to expand knowledge about what a binary tree 
 
 ## Table of Contents
 1. [Test](#Tests)
-2. [Helper File ](#Helper-File)
+2. [Helper File](#Helper-File)
 3. [Header File](#Header-File)
 	* *Data Structures*
 4. [Function Prototypes](#Function-Prototypes)
@@ -18,16 +18,15 @@ In this group project we will work to expand knowledge about what a binary tree 
 
 
 ## Tests ✔️
-**
+
 * tests: Folder of test files for all tasks. Provided by Holberton School.
 
 ## Helper File
-**
 
 * binary_tree_print.c: C function that prints binary trees in a pretty way.
 
 ## Header File 📁
-**
+
 * binary_trees.h: Header file containing definitions and prototypes for all types and functions written for the project.
 
 * Data Structures
@@ -35,15 +34,12 @@ In this group project we will work to expand knowledge about what a binary tree 
 ![Data Structures](https://i.imgur.com/NplWLYq.jpg)
 
 ## Function Prototypes
-**
 
-/*table: File/prototype*/
+/*table: File|prototype*/
 
 ## Tasks 📃
-**
 
 All exercises and the purpose of the functions
-
 
 ## Authors ✒️
 ***
