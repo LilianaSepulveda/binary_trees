@@ -1,9 +1,9 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_leaves - Inserts a node as the left-child of another node.
- * @tree: a pointer to parent of the node to create
- * Return: pointer to the created node, or NULL on failure or if parent is NULL
+ * binary_tree_leaves - counts the leaves in a binary
+ * @tree: a pointer to root node of the tree to count the number of leaves
+ * Return: if is NULL, function return 0
  */
 
 size_t binary_tree_leaves(const binary_tree_t *tree)
