@@ -7,6 +7,9 @@ _Binary_ Tree is a Tree data structure where every node has at most 2 children.
 
 In this group project we will work to expand knowledge about what a binary tree is, the difference between a binary tree and a binary tree, the potential gain in terms of time complexity compared to the related list, the same depth. We also investigate and cover topics on different traversal methods for traversing a binary tree, a complete, complete, perfect, and balanced binary tree.
 
+### Learning Objectives
+* At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
 
 ## Table of Contents
 1. [Test](#Tests)
