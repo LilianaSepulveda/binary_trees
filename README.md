@@ -43,7 +43,7 @@ All exercises and the purpose of the functions
 
 ## Authors ✒️
 ***
-* Sergio Velasquez
+* Sergio Velasquez <[sergiovelasquez18](https://github.com/sergiovelasquez18)>
 * Luz Adriana Baza <[luzbaza](https://github.com/luzbaza)>
 * Martha Liliana Sepulveda Lindarte <[LilianaSepulveda](https://github.com/LilianaSepulveda)>
 
