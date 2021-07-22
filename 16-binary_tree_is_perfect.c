@@ -21,9 +21,10 @@ size_t binary_tree_size(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_is_perfect - measures the size of a binary tree
- * @tree: pointer to the root
- * Return: 1 if true o if false
+ * binary_tree_is_perfect - checks if a binary tree is perfect
+ * @tree: pointer to the root node of the tree to check
+ * Return: 1 if the tree is perfect (true)
+ *         0 if it`s false, If tree is NULL or not perfect
  */
 
 int binary_tree_is_perfect(const binary_tree_t *tree)

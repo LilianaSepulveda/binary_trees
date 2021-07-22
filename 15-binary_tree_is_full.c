@@ -2,8 +2,8 @@
 
 /**
  * binary_tree_is_full -  function that checks if a binary tree is full
- * @tree: pointer to the node to measure the depth
- * Return: 0 If tree is NULL, else return the depth
+ * @tree: pointer to the node of the tree to check
+ * Return: 0 If tree is NULL, else return checks if a binary tree is full
  **/
 
 int binary_tree_is_full(const binary_tree_t *tree)

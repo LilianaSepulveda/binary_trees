@@ -3,8 +3,8 @@
 /**
  * binary_tree_nodes - function that counts the nodes with
  * at least 1 child in a binary tree
- * @tree: pointer to the node to measure the depth
- * Return: 0 If tree is NULL, else return the depth
+ * @tree: pointer to the node of tree to count the number of nodes
+ * Return: 0 If tree is NULL, else return number of nodes
  * A NULL pointer is not a node
  */
 
